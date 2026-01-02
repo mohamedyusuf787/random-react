@@ -1,8 +1,22 @@
+# Dependencies
 node_modules/
-assets/bundles/
-arraycomp
-checkboxlist
-checked
-conditionrendering
-formcomp
-random/
+
+# Build output
+dist/
+build/
+assets/images/
+
+# Environment files
+.env
+
+# Ignore practice / extra components (inside src)
+src/arraycomp.jsx
+src/checkboxlist.jsx
+src/checked.jsx
+src/conditionrender.jsx
+src/formcomp.jsx
+src/random/
+
+# Editor / OS files
+.vscode/
+.DS_Store
