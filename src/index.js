@@ -6,7 +6,7 @@ import Formcomp from "./formcomp";
 import Arraycomp from "./arraycomp";
 import Conditonrender from "./conditonrender";
 import Checkbox from "./checked";
-import Random from "./random"; 
+import Random from "./random/index.jsx"; 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 // function Navbar() {
